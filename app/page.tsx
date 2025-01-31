@@ -18,7 +18,7 @@ export default function Home() {
           <div className="flex gap-4 justify-center">
             <Link href="/dashboard">
               <Button size="lg">
-                Try Demo Dashboard
+                Try it NOW!
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </Link>
